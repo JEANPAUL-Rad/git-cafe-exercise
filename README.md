@@ -1,1 +1,1 @@
-# git-cafe-exercise
+# git-cafe-exercises
